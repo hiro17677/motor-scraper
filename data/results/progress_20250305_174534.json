@@ -1,0 +1,82 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "NMAX 155",
+        "tag": "#9055",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84029815.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029817.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029819.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029818.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029816.jpeg"
+        ],
+        "price": "9500000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FORCE 155",
+        "tag": "#1056",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "47,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84029403.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029404.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029409.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029402.jpeg"
+        ],
+        "price": "5500000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO 2 PLUS",
+        "tag": "#5187",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7,XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84028947.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84028945.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84028946.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84028948.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84028949.jpeg"
+        ],
+        "price": "2600000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2016",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰四代",
+        "tag": "#2352",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "24,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84020241.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84020243.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84020240.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84020239.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84020242.jpeg"
+        ],
+        "price": "4500000",
+        "warranty": true
+    }
+]

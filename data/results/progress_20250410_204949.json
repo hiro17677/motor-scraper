@@ -1,0 +1,142 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2019",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO 3 PLUS",
+        "tag": "#3691",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "23,372 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85747880.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85747881.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85747878.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85747879.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85747877.jpeg"
+        ],
+        "price": "25000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET SL 125",
+        "tag": "#0766",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85728841.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728842.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728843.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728844.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728845.jpeg"
+        ],
+        "price": "83000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2016",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰四代",
+        "tag": "#3896",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "28,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85728629.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728634.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728633.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728631.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728632.jpeg"
+        ],
+        "price": "48000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "GSX-S 150",
+        "tag": "#7755",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85728468.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728471.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728467.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728470.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728469.jpeg"
+        ],
+        "price": "49999",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "TIGRA 200",
+        "tag": "#7890",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "35,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85728291.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728292.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728290.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728288.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85728289.jpeg"
+        ],
+        "price": "29999",
+        "warranty": false
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2014",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "CHERRY 100",
+        "tag": "#331",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "30,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85721334.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85721336.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85721333.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85721331.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85721332.jpeg"
+        ],
+        "price": "27000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2022",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "SALUTO 125",
+        "tag": "#5190",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85720100.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85720101.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85720102.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85720104.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85720105.jpeg"
+        ],
+        "price": "59999",
+        "warranty": true
+    }
+]

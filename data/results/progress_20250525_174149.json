@@ -1,0 +1,82 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 雷霆S150",
+        "tag": "#6858",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "16,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87827323.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827322.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827324.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827321.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827325.jpeg"
+        ],
+        "price": "55000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2017",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 Z1 ATTILA 125",
+        "tag": "#5813",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "51,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87827280.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827282.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827283.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827281.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827284.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 XSENCE 紳士 150",
+        "tag": "#6919",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "15,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87827242.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827241.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827239.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827243.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827240.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JET SL+158",
+        "tag": "#8299",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87827156.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827154.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827153.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827157.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87827155.jpeg"
+        ],
+        "price": "93000",
+        "warranty": true
+    }
+]

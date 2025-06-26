@@ -1,0 +1,22 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO S2",
+        "tag": "3276",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "6,238 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83866873.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83866872.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83866871.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83866870.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83866874.jpeg"
+        ],
+        "price": "3999900",
+        "warranty": false
+    }
+]

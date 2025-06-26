@@ -1,0 +1,22 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 DRG 158 TCS KEYLESS",
+        "tag": "#5987",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "16,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88059830.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88059832.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88059829.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88059831.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88059828.jpeg"
+        ],
+        "price": "78000",
+        "warranty": true
+    }
+]

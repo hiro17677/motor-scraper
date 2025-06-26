@@ -1,0 +1,142 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "雷霆S 150",
+        "tag": "#7069",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "19,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84011380.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84011379.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84011378.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84011376.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84011377.jpeg"
+        ],
+        "price": "5999900",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2015",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "RS ZERO 100",
+        "tag": "#817",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "15,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84006943.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84006942.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84006946.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84006944.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84006945.jpeg"
+        ],
+        "price": "3300000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "MANYLED125 雙碟版",
+        "tag": "#8551",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "4,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84010828.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010832.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010829.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010830.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010831.jpeg"
+        ],
+        "price": "6300000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2013",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "MANY110水鑽版",
+        "tag": "#512",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "35,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84010594.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010596.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010598.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010597.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010595.jpeg"
+        ],
+        "price": "3200000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "金牌125鼓煞",
+        "tag": "#1515",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84010090.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010091.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010089.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010088.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84010087.jpeg"
+        ],
+        "price": "3999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰四代",
+        "tag": "#5156",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "45,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84009683.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84009684.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84009681.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84009682.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84009680.jpeg"
+        ],
+        "price": "3999900",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO VIVA KEYLESS",
+        "tag": "#0660",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "23,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84009247.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84009246.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84009249.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84009250.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84009248.jpeg"
+        ],
+        "price": "1500000",
+        "warranty": false
+    }
+]

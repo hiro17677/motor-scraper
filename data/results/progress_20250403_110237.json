@@ -1,0 +1,62 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO SUPER SPORT ACE",
+        "tag": "#5626",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "1,016 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85392653.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85392654.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85392656.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85392652.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85392655.jpeg"
+        ],
+        "price": "4999900",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO S2",
+        "tag": "#5377",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "8,576 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85392636.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85392635.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85392633.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85392634.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85392637.jpeg"
+        ],
+        "price": "3300000",
+        "warranty": false
+    },
+    {
+        "location": "南台中店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰五代 125",
+        "tag": "#2031",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "29,3XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85394630.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85394634.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85394633.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85394631.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85394632.jpeg"
+        ],
+        "price": "5999900",
+        "warranty": true
+    }
+]

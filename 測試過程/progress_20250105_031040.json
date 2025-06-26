@@ -1,0 +1,98 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2024",
+        "brand": "三陽",
+        "model": "JET SL PLUS+",
+        "tag": "#8598",
+        "condition": "無詳細描述",
+        "price": "9500000",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81538551.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81538553.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81538552.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81538550.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81538554.jpeg"
+        ]
+    },
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "本田",
+        "model": "HORNET 2.0",
+        "tag": "#8178",
+        "condition": "無詳細描述",
+        "price": "5800000",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81273476.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81273473.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81273475.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81273472.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81273474.jpeg"
+        ]
+    },
+    {
+        "location": "新北中和店",
+        "year": "2023",
+        "brand": "山葉",
+        "model": "勁戰6.5代 | (TCS+Keyless+TFT儀表)",
+        "tag": "#1025",
+        "condition": "無詳細描述",
+        "price": "8999900",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81272009.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81272013.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81272010.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81272012.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81272011.jpeg"
+        ]
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "台鈴",
+        "model": "SALUTO 125",
+        "tag": "#1866",
+        "condition": "此車尚未整理",
+        "price": "5999900",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81813492.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81813494.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81813491.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81813490.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81813493.jpeg"
+        ]
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2024",
+        "brand": "三陽",
+        "model": "MMBCU 158",
+        "tag": "#7688",
+        "condition": "此車尚未整理",
+        "price": "10300000",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81795764.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81795762.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81795760.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81795761.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81795763.jpeg"
+        ]
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "哈特佛",
+        "model": "雲豹 HD-223H2(ABS.國際檔)",
+        "tag": "#6399",
+        "condition": "無詳細描述",
+        "price": "5500000",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81451999.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81451997.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81451998.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81451995.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81451996.jpeg"
+        ]
+    }
+]

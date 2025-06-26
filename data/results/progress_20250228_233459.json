@@ -1,0 +1,40 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2019",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO VIVA KEYLESS 綠牌",
+        "tag": "#3770",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7,964 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83847855.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83847856.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83847853.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83847854.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83847857.jpeg"
+        ],
+        "price": "1999900"
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2010",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰二代",
+        "tag": "#313",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83792781.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83792777.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83792779.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83792780.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83792778.jpeg"
+        ],
+        "price": "2999900"
+    }
+]

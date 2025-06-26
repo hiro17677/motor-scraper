@@ -1,0 +1,98 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "山葉",
+        "model": "EC-05 ABS",
+        "tag": "#1758",
+        "condition": "無詳細描述",
+        "price": "3800000",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81271932.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271933.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271934.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271945.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271931.jpeg"
+        ]
+    },
+    {
+        "location": "新北中和店",
+        "year": "2015",
+        "brand": "光陽",
+        "model": "DOWNTOWN 350I ABS",
+        "tag": "#9811",
+        "condition": "無詳細描述",
+        "price": "4800000",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81271718.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271719.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271716.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271717.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271720.jpeg"
+        ]
+    },
+    {
+        "location": "新北中和店",
+        "year": "2017",
+        "brand": "山葉",
+        "model": "SWEET 115",
+        "tag": "#0799",
+        "condition": "無詳細描述",
+        "price": "3200000",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81271597.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271595.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271593.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271594.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271596.jpeg"
+        ]
+    },
+    {
+        "location": "新北中和店",
+        "year": "2019",
+        "brand": "三陽",
+        "model": "JETS 125 ABS",
+        "tag": "#6813",
+        "condition": "無詳細描述",
+        "price": "4999900",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81271473.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271470.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271469.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271471.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81271472.jpeg"
+        ]
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "川崎",
+        "model": "Z 125",
+        "tag": "#3357",
+        "condition": "車輛保證無重大事故、可發可騎、引擎傳動部分正常磨耗無更換",
+        "price": "3800000",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81879052.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81879054.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81879051.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81879053.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81879050.jpeg"
+        ]
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "台鈴",
+        "model": "GSX-S150 國際檔",
+        "tag": "#0902",
+        "condition": "此車尚未整理",
+        "price": "5999900",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/80733217.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80733216.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80733218.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80733215.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80733214.jpeg"
+        ]
+    }
+]

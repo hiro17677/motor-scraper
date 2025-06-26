@@ -1,0 +1,148 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 雷霆 S 150 BREMBO 賽道版",
+        "tag": "#9217",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "31,153 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88531909.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88531911.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88531910.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88531913.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88531912.jpeg"
+        ],
+        "price": "59999",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 雷霆 S 150 雙碟",
+        "tag": "#6979",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "54,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88520259.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520262.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520260.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520263.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520261.jpeg"
+        ],
+        "price": "43000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 GP 125 碟煞",
+        "tag": "#0355",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88520187.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520188.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520191.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520190.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520189.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 VINOORA 125 KEYLESS",
+        "tag": "#0919",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "6,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88520124.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520127.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520123.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520126.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88520125.jpeg"
+        ],
+        "price": "68000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2014",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 MANY 110",
+        "tag": "#0756",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "35,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88519422.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88519420.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88519424.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88519421.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88519419.jpeg"
+        ],
+        "price": "32000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2013",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 BWSX 125",
+        "tag": "#861",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "16,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88465975.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88465977.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88465978.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88465983.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88465985.jpeg"
+        ],
+        "price": "28000",
+        "warranty": false
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2022",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 名流 125",
+        "tag": "#3990",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "22,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88541403.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541406.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541404.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541401.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541402.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541396.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541399.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541397.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541398.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88541400.jpeg"
+        ],
+        "price": "38000",
+        "warranty": true
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO VIVA KEYLESS 綠牌",
+        "tag": "#5073",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "1,995 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84041569.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84041573.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84041571.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84041570.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84041572.jpeg"
+        ],
+        "price": "2300000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "KRV180",
+        "tag": "#9339",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84036570.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84036574.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84036573.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84036572.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84036571.jpeg"
+        ],
+        "price": "7500000",
+        "warranty": true
+    }
+]

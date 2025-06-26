@@ -1,0 +1,180 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 NEW CUXI 115 碟煞",
+        "tag": "#7375",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "29,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87639960.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639961.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639963.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639962.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639964.jpeg"
+        ],
+        "price": "42000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2015",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO BON 125",
+        "tag": "#936",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "47,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87639867.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639862.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639864.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639866.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639868.jpeg"
+        ],
+        "price": "28000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2019",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 雷霆 S 150 ABS",
+        "tag": "#1862",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "38,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87639350.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639352.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639353.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639351.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87639354.jpeg"
+        ],
+        "price": "50000",
+        "warranty": true
+    },
+    {
+        "location": "花蓮店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 KRV 180 TCS",
+        "tag": "#9657",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "33XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87643875.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87643876.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87643877.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87643879.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87643889.jpeg"
+        ],
+        "price": "58000",
+        "warranty": false
+    },
+    {
+        "location": "花蓮店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 KRV 180 TCS",
+        "tag": "#9173",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "29XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87641706.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87641708.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87641714.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87641720.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87641724.jpeg"
+        ],
+        "price": "59999",
+        "warranty": false
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 NMAX 155 ABS+TCS",
+        "tag": "#9837",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "8,0XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87647693.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647695.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647692.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647691.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647694.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647690.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647688.jpeg"
+        ],
+        "price": "98000",
+        "warranty": true
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2018",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO ALPHA MAX 125",
+        "tag": "#2306",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "32,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87647130.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647128.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647127.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647132.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647131.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647126.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647122.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647129.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647125.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647123.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87647124.jpeg"
+        ],
+        "price": "38000",
+        "warranty": true
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "0000",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "GTR Aero 125",
+        "tag": "#053",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "71,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86956043.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956044.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956046.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956045.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956047.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956041.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956039.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956040.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956038.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956036.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956033.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956042.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956037.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956035.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86956034.jpeg"
+        ],
+        "price": "26000",
+        "warranty": true
+    }
+]

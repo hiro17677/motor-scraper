@@ -1,0 +1,182 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2018",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "GSX R150",
+        "tag": "#7561",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84720021.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84720022.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84720020.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84720023.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84720019.jpeg"
+        ],
+        "price": "49999",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "DOWNTOWN 350",
+        "tag": "#9881",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85450230.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450232.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450231.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450229.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450233.jpeg"
+        ],
+        "price": "69999",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "水冷 BWS 125",
+        "tag": "#5523",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85450177.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450179.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450180.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450181.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450178.jpeg"
+        ],
+        "price": "65000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "MT-15",
+        "tag": "#3051",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "12,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85450155.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450156.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450154.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450153.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450152.jpeg"
+        ],
+        "price": "79999",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2019",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO S2",
+        "tag": "#7983",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "19,549 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85450135.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450138.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450139.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450136.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85450137.jpeg"
+        ],
+        "price": "36000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2016",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "BWSR 125",
+        "tag": "#2237",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "22,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85420696.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85420697.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85420698.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85420699.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85420700.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2019",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET S 125",
+        "tag": "#2119",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "28,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85417209.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85417210.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85417217.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85417221.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85417239.jpeg"
+        ],
+        "price": "55000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2007",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "GT 125 碟煞",
+        "tag": "#855",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "24,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85415324.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85415325.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85415326.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85415327.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85415329.jpeg"
+        ],
+        "price": "25000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2019",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "FNX 125",
+        "tag": "#9356",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "20,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85415192.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85415193.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85415194.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85415195.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85415196.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    }
+]

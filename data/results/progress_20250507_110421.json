@@ -1,0 +1,42 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 新迪爵 125 碟煞",
+        "tag": "#6156",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87017407.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87017405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87017408.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87017409.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87017406.jpeg"
+        ],
+        "price": "37000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰6.5代 TCS",
+        "tag": "#1755",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "77XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87016635.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87016633.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87016634.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87016637.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87016636.jpeg"
+        ],
+        "price": "88000",
+        "warranty": true
+    }
+]

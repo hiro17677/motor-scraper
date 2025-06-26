@@ -1,0 +1,142 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2018",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "NEW CUXI 115",
+        "tag": "#0291",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372793.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372794.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372791.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372795.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372792.jpeg"
+        ],
+        "price": "4500000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2013",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "MANY 110",
+        "tag": "#920",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "93,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372692.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372696.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372694.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372693.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372695.jpeg"
+        ],
+        "price": "3300000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2013",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "G6 125",
+        "tag": "#1829",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "38,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372618.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372620.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372624.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372621.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372622.jpeg"
+        ],
+        "price": "2500000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2012",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "CUXI 100",
+        "tag": "#165",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372506.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372507.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372509.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372510.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372508.jpeg"
+        ],
+        "price": "3300000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2008",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "得意 100",
+        "tag": "#269",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "57,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372443.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372444.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372445.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372446.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372447.jpeg"
+        ],
+        "price": "1300000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2014",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "MII 110",
+        "tag": "#102",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "44,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372402.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372406.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372404.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372403.jpeg"
+        ],
+        "price": "2500000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2019",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FORCE 155",
+        "tag": "#1850",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "40,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85371697.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85371700.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85371701.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85371699.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85371698.jpeg"
+        ],
+        "price": "3999900",
+        "warranty": false
+    }
+]

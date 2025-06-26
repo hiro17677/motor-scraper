@@ -1,0 +1,135 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2012",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "BWSX 125",
+        "tag": "#836",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "56,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83497392.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83497395.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83497393.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83497394.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83497396.jpeg"
+        ],
+        "price": "2800000"
+    },
+    {
+        "location": "新竹店",
+        "year": "2011",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "BWSX 125",
+        "tag": "#820",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "26,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83473838.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83473835.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83473837.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83473836.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83473834.jpeg"
+        ],
+        "price": "2600000"
+    },
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FZX 150",
+        "tag": "#2359",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83473471.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83473470.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83473473.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83473474.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83473472.jpeg"
+        ],
+        "price": "6999900"
+    },
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO S2",
+        "tag": "#9062",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "36xxx km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83513319.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83513320.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83513316.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83513318.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83513317.jpeg"
+        ],
+        "price": "3800000"
+    },
+    {
+        "location": "新北中和店",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰6.5代",
+        "tag": "#1068",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "67xx km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83512596.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512599.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512600.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512598.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512597.jpeg"
+        ],
+        "price": "8800000"
+    },
+    {
+        "location": "新北中和店",
+        "year": "2015",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "Z1 125",
+        "tag": "#5870",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "65xxx km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83512380.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512382.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512381.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512378.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512379.jpeg"
+        ],
+        "price": "2999900"
+    },
+    {
+        "location": "新北中和店",
+        "year": "2015",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "SMAX 155",
+        "tag": "#2181",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "58xxx km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83512054.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512055.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512056.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512058.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83512057.jpeg"
+        ],
+        "price": "4200000"
+    }
+]

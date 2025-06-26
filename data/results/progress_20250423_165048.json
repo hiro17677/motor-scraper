@@ -1,0 +1,182 @@
+[
+    {
+        "location": "新北樹林店",
+        "year": "2016",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO TIGRA 彪虎 150",
+        "tag": "#1531",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "47,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86380034.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86380032.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86380031.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86380033.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86380029.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2016",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO TIGRA 彪虎 150",
+        "tag": "#1531",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "47,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86380034.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86380032.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86380031.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86380033.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86380029.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2017",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 LIKE 125",
+        "tag": "#5611",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86020331.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86020333.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86020334.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86020330.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86020332.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2016",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO BON 125",
+        "tag": "#2169",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "31,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86379710.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86379718.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86379720.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86379727.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86379738.jpeg"
+        ],
+        "price": "29999",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2018",
+        "brand": "2018",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO S2 CAFÉ RACER",
+        "tag": "#0531",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "6,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86378210.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86378222.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86378225.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86378235.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86378238.jpeg"
+        ],
+        "price": "27000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁豪 125 鼓煞",
+        "tag": "#0151",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "26,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86377848.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377851.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377865.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377869.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377880.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 NEW MANY 125",
+        "tag": "#6955",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86377564.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377572.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377573.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377579.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377598.jpeg"
+        ],
+        "price": "48000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2019",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 RS NEO 125",
+        "tag": "#2733",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86377124.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377128.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377143.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377153.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86377169.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2024",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 AUGUR 155",
+        "tag": "#8881",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "1,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86376562.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86376570.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86376579.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86376587.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86376599.jpeg"
+        ],
+        "price": "95000",
+        "warranty": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "location": "南台中店",
+        "year": "2023",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "JBUBU 115 CBS",
+        "tag": "#7980",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,9XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85394767.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85394770.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85394768.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85394771.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85394769.jpeg"
+        ],
+        "price": "5800000",
+        "warranty": true
+    }
+]

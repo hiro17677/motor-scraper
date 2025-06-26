@@ -1,0 +1,122 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2022",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "全新迪爵 碟煞 CBS",
+        "tag": "#5981",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "8,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85401066.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85401067.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85401068.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85401075.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85401076.jpeg"
+        ],
+        "price": "4999900",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2014",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "BWSX 125",
+        "tag": "#725",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "51,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85400006.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85400013.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85400014.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85400015.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85400018.jpeg"
+        ],
+        "price": "2800000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2021",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "GSX-R150 小阿魯",
+        "tag": "#6780",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3X km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85399693.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399694.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399695.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399696.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399699.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2024",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FORCE 2.0",
+        "tag": "#0955",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "4,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85399542.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399543.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399544.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399545.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399554.jpeg"
+        ],
+        "price": "8500000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2023",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "DRG 158 TCS 七期",
+        "tag": "#2827",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "8,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85399423.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399428.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399433.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399434.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85399435.jpeg"
+        ],
+        "price": "7999900",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2023",
+        "brand": "宏佳騰",
+        "shopee_code": "1082956",
+        "ruten_code": "0019000200020009",
+        "model": "MY 150",
+        "tag": "#2801",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "5,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85217717.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85217718.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85217719.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85217721.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85217725.jpeg"
+        ],
+        "price": "5500000",
+        "warranty": false
+    }
+]

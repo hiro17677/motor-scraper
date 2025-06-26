@@ -1,0 +1,24 @@
+[
+    {
+        "location": "高雄鳳山店",
+        "year": "2019",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "台鈴 GSX-R 150 ABS",
+        "tag": "#1596",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88715396.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88715397.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88715398.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88715399.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88715401.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88715400.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88715395.jpeg"
+        ],
+        "price": "52000",
+        "warranty": true
+    }
+]

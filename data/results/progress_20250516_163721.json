@@ -1,0 +1,91 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JET SR 125 ABS",
+        "tag": "#9585",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87480305.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87480302.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87480306.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87480303.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87480304.jpeg"
+        ],
+        "price": "62000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JET SR 125 ABS",
+        "tag": "#8755",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "40,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87480148.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87480146.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87480149.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87480147.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87480150.jpeg"
+        ],
+        "price": "62000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2014",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 NEW CUXI 115",
+        "tag": "#082",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "491XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87482782.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482786.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482784.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482785.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482783.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482778.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482777.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482781.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482775.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482776.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482774.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87482780.jpeg"
+        ],
+        "price": "32000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2021",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 新迪爵125",
+        "tag": "#8387",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "485XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87479885.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87479886.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87479883.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87479882.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87479884.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87479881.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87479880.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    }
+]

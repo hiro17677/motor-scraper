@@ -1,0 +1,59 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2007",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "金旺100 循環檔",
+        "tag": "#270",
+        "condition": "◎ 車輛狀況：此車尚未整理。我們預計做機油、火星塞、前土除更換，節流閥、噴油嘴、外觀清潔、煞車油檢查，引擎傳動檢查並更換磨耗的消耗品，引擎有提供3~12月保固，消耗品、電系1個月保固。 產品價格包含以上施工項目 如其它要求，有可以預約看車現場客製化 ",
+        "mileage": "19xxxkm",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82585981.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585980.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585979.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585978.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585977.jpeg"
+        ],
+        "price": "3800000"
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "雷霆S 125",
+        "tag": "#8278",
+        "condition": "◎ 車輛狀況：此車尚未整理。我們預計做機油、齒輪油、火星塞更換，節流閥、噴油嘴、外觀清潔、煞車油檢查，引擎傳動檢查並更換磨耗的消耗品，引擎有提供3~12月保固，消耗品、電系1個月保固。 產品價格包含以上施工項目 如其它要求，有可以預約看車現場客製化 ",
+        "mileage": "12xxxkm",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82585943.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585944.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585941.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585942.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585945.jpeg"
+        ],
+        "price": "5500000"
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FZ-25 國際檔",
+        "tag": "#7162",
+        "condition": "◎ 車輛狀況：此車尚未整理，我們預計會做機油、火星塞更換、引擎傳動部分不會整理，無提供後續保固，交車前確保燈系正常，特價現況販售。 產品價格包含以上施工項目 如其它要求，有可以預約看車現場客製化 ",
+        "mileage": "12xxxkm",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82585825.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585827.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585824.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585828.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82585826.jpeg"
+        ],
+        "price": "3999900"
+    }
+]

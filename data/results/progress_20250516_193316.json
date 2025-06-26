@@ -1,0 +1,62 @@
+[
+    {
+        "location": "南台中店",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰6.5代 125 TCS",
+        "tag": "#8685",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "40XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87488788.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488789.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488787.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488791.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488790.jpeg"
+        ],
+        "price": "86000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2020",
+        "brand": "2020",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "HONDA CBR 150R",
+        "tag": "#2018",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "133XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87488742.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488745.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488746.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488743.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488747.jpeg"
+        ],
+        "price": "65000",
+        "warranty": false
+    },
+    {
+        "location": "南台中店",
+        "year": "2015",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JET S 125 單碟版",
+        "tag": "#7233",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "317XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87488610.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488612.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488614.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488611.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87488613.jpeg"
+        ],
+        "price": "38000",
+        "warranty": true
+    }
+]

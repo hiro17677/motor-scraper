@@ -1,0 +1,142 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2015",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰三代",
+        "tag": "#9700",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84240628.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240631.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240632.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240629.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240630.jpeg"
+        ],
+        "price": "2700000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰四代",
+        "tag": "#3125",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "36,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84240517.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240520.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240521.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240518.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240519.jpeg"
+        ],
+        "price": "4500000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JETSR 125",
+        "tag": "#2109",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "18,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84240274.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240277.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240278.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240275.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240276.jpeg"
+        ],
+        "price": "6600000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JETSR 125 CBS",
+        "tag": "#0772",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "8,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84240120.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240119.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240118.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240116.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240117.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "GSX-R150",
+        "tag": "#6025",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "5,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84240044.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240048.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240045.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240046.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84240047.jpeg"
+        ],
+        "price": "6999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "MT-15",
+        "tag": "#0537",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84239847.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84239851.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84239849.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84239850.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84239848.jpeg"
+        ],
+        "price": "7800000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰五代",
+        "tag": "#9991",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84226330.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84226333.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84226332.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84226334.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84226331.jpeg"
+        ],
+        "price": "5500000",
+        "warranty": true
+    }
+]

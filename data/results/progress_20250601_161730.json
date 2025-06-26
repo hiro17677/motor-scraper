@@ -1,0 +1,62 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO S2",
+        "tag": "#6056",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "8,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88117083.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88117082.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88117080.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88117081.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88117084.jpeg"
+        ],
+        "price": "35000",
+        "warranty": false
+    },
+    {
+        "location": "南台中店",
+        "year": "2024",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 MANY MOTO 110 碟煞",
+        "tag": "#2268",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "82XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88115652.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88115654.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88115655.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88115653.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88115656.jpeg"
+        ],
+        "price": "58000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2013",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 野狼傳奇 125 國際檔",
+        "tag": "#986",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "306XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88115626.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88115628.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88115627.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88115629.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88115630.jpeg"
+        ],
+        "price": "29999",
+        "warranty": true
+    }
+]

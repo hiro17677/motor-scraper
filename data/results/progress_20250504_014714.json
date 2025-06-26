@@ -1,0 +1,182 @@
+[
+    {
+        "location": "南台中店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 雷霆S 125 雙碟版",
+        "tag": "#7265",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "291XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859854.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859855.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859857.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859856.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859858.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2022",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO VIVA 鑰匙版",
+        "tag": "#3789",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "84XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859821.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859822.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859823.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859820.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859824.jpeg"
+        ],
+        "price": "23000",
+        "warranty": false
+    },
+    {
+        "location": "南台中店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 LIKE 150",
+        "tag": "#0255",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "283XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859795.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859796.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859794.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859797.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859798.jpeg"
+        ],
+        "price": "49999",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2020",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 活力 VIVO ABS 125",
+        "tag": "#5633",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "215XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859780.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859783.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859782.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859781.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859784.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2016",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 CUE 100 鼓煞",
+        "tag": "#7522",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "162XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859723.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859724.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859722.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859721.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859725.jpeg"
+        ],
+        "price": "26000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2016",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JETS 125 ABS",
+        "tag": "#1951",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "470XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859593.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859590.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859592.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859591.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859594.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2023",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 MMBCU 158 ABS/TCS",
+        "tag": "#5031",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "101XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859567.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859571.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859570.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859568.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859569.jpeg"
+        ],
+        "price": "75000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2019",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 MANY 110 鼓煞",
+        "tag": "#7887",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "217XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859529.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859531.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859530.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859528.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859532.jpeg"
+        ],
+        "price": "38000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 MT-15 155 ABS",
+        "tag": "#6251",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "259XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86859478.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859479.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859476.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859475.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86859477.jpeg"
+        ],
+        "price": "68000",
+        "warranty": false
+    }
+]

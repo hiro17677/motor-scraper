@@ -1,0 +1,68 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 SMAX 155 LED ABS",
+        "tag": "#5770",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "未知",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87036621.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87036598.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87036597.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87036595.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87036593.jpeg"
+        ],
+        "price": "62000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2019",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO S2 ABS",
+        "tag": "#7729",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "78XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87039571.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87039572.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87039573.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87039568.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87039569.jpeg"
+        ],
+        "price": "35000",
+        "warranty": false
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 TRICITY 155",
+        "tag": "#3888",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "23XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87038819.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038820.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038824.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038815.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038816.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038822.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038817.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038823.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038821.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038818.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87038825.jpeg"
+        ],
+        "price": "85000",
+        "warranty": false
+    }
+]

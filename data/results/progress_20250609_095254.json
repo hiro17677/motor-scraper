@@ -1,0 +1,122 @@
+[
+    {
+        "location": "南台中店",
+        "year": "2019",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 新名流 125",
+        "tag": "#9915",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "79XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88455816.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455818.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455819.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455817.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455820.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2023",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 CLBCU 125 CBS",
+        "tag": "#0619",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "144XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88455732.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455736.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455735.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455733.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455734.jpeg"
+        ],
+        "price": "62000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2020",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO S2",
+        "tag": "#9518",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "215XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88455615.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455619.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455617.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455618.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455616.jpeg"
+        ],
+        "price": "29999",
+        "warranty": false
+    },
+    {
+        "location": "南台中店",
+        "year": "2023",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 MMBCU 158 ABS/TCS",
+        "tag": "#9658",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "107XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88455579.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455580.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455581.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455578.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455582.jpeg"
+        ],
+        "price": "92000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 NICE 100 鼓煞",
+        "tag": "#5697",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "178XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88455546.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455548.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455547.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455545.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455544.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2014",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 WOWOW 100",
+        "tag": "#3289",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "275XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88455432.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455435.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455433.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455434.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88455436.jpeg"
+        ],
+        "price": "38000",
+        "warranty": false
+    }
+]

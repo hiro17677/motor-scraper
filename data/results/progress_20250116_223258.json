@@ -1,0 +1,59 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO 2 DELIGHT",
+        "tag": "#1900",
+        "condition": "◎ 車輛狀況：車況良好、無待修、現況販售  ",
+        "mileage": "13806km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82298638.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82298639.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82298637.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82298636.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82298635.jpeg"
+        ],
+        "price": "2700000"
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "SALUTO 125",
+        "tag": "#5802",
+        "condition": "◎ 車輛狀況：此車尚未整理。我們預計做機油、齒輪油、火星塞、後視鏡、握把套更換，節流閥、噴油嘴、外觀清潔、煞車油檢查，引擎傳動檢查並更換磨耗的消耗品、外觀擦傷部分現況，引擎有提供3~12月保固，消耗品、電系1個月保固。 產品價格包含以上施工項目 如其它要求，有可以預約看車現場客製化 ",
+        "mileage": "10xxxkm",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82295402.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82295400.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82295399.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82295401.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82295398.jpeg"
+        ],
+        "price": "5500000"
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2024",
+        "brand": "本田",
+        "shopee_code": "1146583",
+        "ruten_code": "0019000200020008",
+        "model": "MSX GROM 125 ABS 國際檔",
+        "tag": "#8919",
+        "condition": "◎ 車輛狀況：車況如新，前車主因無法學會起步故而販售、水貨車、無待修、引擎有提供3~12月保固，消耗品、電系1個月保固。 ",
+        "mileage": "11km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82295288.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82295287.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82295286.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82295285.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82295284.jpeg"
+        ],
+        "price": "10300000"
+    }
+]

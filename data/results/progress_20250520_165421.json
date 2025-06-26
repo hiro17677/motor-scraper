@@ -1,0 +1,75 @@
+[
+    {
+        "location": "高雄鳳山店",
+        "year": "2022",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰六代 125 ABS",
+        "tag": "#3597",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87649912.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649917.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649916.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649914.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649915.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649913.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649908.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649909.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649910.jpeg"
+        ],
+        "price": "65000",
+        "warranty": true
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2021",
+        "brand": "2021",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 Gogoro S2 ABS",
+        "tag": "#9900",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "28,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87649253.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649252.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649251.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649254.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649256.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649255.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649248.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649250.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649247.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649249.jpeg"
+        ],
+        "price": "35000",
+        "warranty": false
+    },
+    {
+        "location": "台南店",
+        "year": "2022",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 MANY 110 (碟煞)",
+        "tag": "#9981",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "150XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87649241.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649243.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649240.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649238.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649239.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649235.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649234.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649237.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87649233.jpeg"
+        ],
+        "price": "52000",
+        "warranty": true
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "location": "南台中店",
+        "year": "2013",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 MANY 110",
+        "tag": "#075",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "44,3XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86310676.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86310678.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86310680.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86310677.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86310679.jpeg"
+        ],
+        "price": "28000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 FORCE 155",
+        "tag": "#7706",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,5XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86310484.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86310483.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86310480.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86310481.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86310482.jpeg"
+        ],
+        "price": "58000",
+        "warranty": true
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 VJR 125",
+        "tag": "#7618",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86309227.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309224.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86311433.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309225.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309228.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309226.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309221.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309220.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309222.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309219.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86309223.jpeg"
+        ],
+        "price": "38000",
+        "warranty": true
+    }
+]

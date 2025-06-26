@@ -1,0 +1,1028 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2021",
+        "brand": "三陽",
+        "model": "三陽 JET SR 125 ABS",
+        "tag": "#6512",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "49,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86131959.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86131961.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86131963.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86131960.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86131962.jpeg"
+        ],
+        "price": "53000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2021",
+        "brand": "三陽",
+        "model": "三陽 DRG 158 TCS",
+        "tag": "#0900",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,7XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86131358.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86131362.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86131360.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86131359.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86131361.jpeg"
+        ],
+        "price": "66000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2023",
+        "brand": "光陽",
+        "model": "光陽 JET SR 125 ABS",
+        "tag": "#2887",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "19,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86128498.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86128499.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86128501.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86128497.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86128500.jpeg"
+        ],
+        "price": "66000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2012",
+        "brand": "光陽",
+        "model": "光陽 KTR 150",
+        "tag": "#507",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "41,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86128175.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86128174.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86128176.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86128173.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86128172.jpeg"
+        ],
+        "price": "33000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "山葉",
+        "model": "山葉 R15M",
+        "tag": "#6606",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "22,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86127998.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86127997.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86127995.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86127996.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86127994.jpeg"
+        ],
+        "price": "75000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2021",
+        "brand": "睿能",
+        "model": "睿能 GOGORO VIVAMIX",
+        "tag": "#2218",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86127595.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86127592.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86127596.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86127593.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86127594.jpeg"
+        ],
+        "price": "33000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2024",
+        "brand": "光陽",
+        "model": "光陽 大地名流 150",
+        "tag": "#2887",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "16,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86126548.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86126545.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86126549.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86126547.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86126546.jpeg"
+        ],
+        "price": "53000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2015",
+        "brand": "山葉",
+        "model": "山葉 勁戰三代",
+        "tag": "#971",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "50,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86037791.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86037794.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86037792.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86037793.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86037790.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2014",
+        "brand": "山葉",
+        "model": "山葉 勁戰三代",
+        "tag": "#198",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "18,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86037617.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86037615.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86037616.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86037618.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86037619.jpeg"
+        ],
+        "price": "38000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2019",
+        "brand": "光陽",
+        "model": "光陽 新名流 125 鼓煞",
+        "tag": "#7563",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86036356.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86036353.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86036354.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86036352.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86036355.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2015",
+        "brand": "山葉",
+        "model": "山葉 BWSR",
+        "tag": "#5602",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "23,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86032862.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86032864.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86032865.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86032866.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86032863.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2016",
+        "brand": "山葉",
+        "model": "山葉 NEW CUXI 115",
+        "tag": "#8519",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85983721.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85983723.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85983720.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85983722.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85983724.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "三陽",
+        "model": "三陽 DRG KEYLESS TCS",
+        "tag": "#3169",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "5,6XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85955440.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85955442.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85955441.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85955439.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85955438.jpeg"
+        ],
+        "price": "69999",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "山葉",
+        "model": "山葉 FZX 150",
+        "tag": "#7787",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "4,6XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85954636.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85954634.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85954637.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85954638.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85954635.jpeg"
+        ],
+        "price": "69999",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2017",
+        "brand": "光陽",
+        "model": "光陽 ROMEO 125",
+        "tag": "#5259",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "15,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85815095.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85815092.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85815094.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85815091.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85815093.jpeg"
+        ],
+        "price": "42000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "光陽",
+        "model": "光陽 新名流 125 ABS",
+        "tag": "#8120",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "16,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85814915.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85814914.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85814916.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85814917.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85814913.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2014",
+        "brand": "PGO",
+        "model": "PGO 彪虎 150",
+        "tag": "#810",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85787599.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85787596.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85787600.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85787598.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85787597.jpeg"
+        ],
+        "price": "26000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2013",
+        "brand": "宏佳騰",
+        "model": "宏佳騰 MY 150",
+        "tag": "#826",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85659036.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85659033.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85659034.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85659035.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85659032.jpeg"
+        ],
+        "price": "23000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2007",
+        "brand": "三陽",
+        "model": "三陽 紅骨狼 150",
+        "tag": "#160",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "6,2XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85658712.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85658713.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85658714.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85658715.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85658711.jpeg"
+        ],
+        "price": "28000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2018",
+        "brand": "山葉",
+        "model": "山葉 NEW CUXI 115",
+        "tag": "#0291",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372793.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372794.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372791.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372795.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372792.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2013",
+        "brand": "光陽",
+        "model": "光陽 G6 125",
+        "tag": "#1829",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "38,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372618.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372620.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372624.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372621.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372622.jpeg"
+        ],
+        "price": "25000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2012",
+        "brand": "山葉",
+        "model": "山葉 CUXI 100",
+        "tag": "#165",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372506.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372507.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372509.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372510.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372508.jpeg"
+        ],
+        "price": "33000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2014",
+        "brand": "三陽",
+        "model": "三陽 MII 110",
+        "tag": "#102",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "44,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85372402.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372406.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372404.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85372403.jpeg"
+        ],
+        "price": "25000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2017",
+        "brand": "光陽",
+        "model": "光陽 XSENSE 125",
+        "tag": "#1105",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,0XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85335561.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85335558.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85335557.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85335559.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85335560.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2015",
+        "brand": "山葉",
+        "model": "山葉 BWSR 125",
+        "tag": "#2286",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "31,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85326759.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85326762.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85326763.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85326760.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85326758.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2023",
+        "brand": "光陽",
+        "model": "光陽 RCS MOTO 150 TCS",
+        "tag": "#0050",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,2XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85323452.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85323451.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85323453.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85323455.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85323454.jpeg"
+        ],
+        "price": "72000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "睿能",
+        "model": "睿能 GOGORO S2",
+        "tag": "#6056",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "8,7XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85131022.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85131023.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85131025.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85131021.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85131024.jpeg"
+        ],
+        "price": "33000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2019",
+        "brand": "睿能",
+        "model": "睿能 GOGORO 2 DELIGHT",
+        "tag": "#5365",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "56,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85130790.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130786.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130789.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130788.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130792.jpeg"
+        ],
+        "price": "22000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2015",
+        "brand": "三陽",
+        "model": "三陽 WOO 100",
+        "tag": "#9920",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "18,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85130361.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130359.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130363.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130360.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130362.jpeg"
+        ],
+        "price": "25000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "三陽",
+        "model": "三陽 Z1 ATTILA 125 ABS",
+        "tag": "#6051",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "48,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85130035.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130036.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130037.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130039.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85130038.jpeg"
+        ],
+        "price": "42000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "光陽",
+        "model": "光陽 MANY 110",
+        "tag": "#8221",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,5XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85015592.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85015596.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85015594.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85015593.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85015595.jpeg"
+        ],
+        "price": "46000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2023",
+        "brand": "山葉",
+        "model": "山葉 VINOORA KEYLESS",
+        "tag": "#3990",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,8XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85013509.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85013505.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85013507.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85013506.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85013508.jpeg"
+        ],
+        "price": "68000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "光陽",
+        "model": "光陽 MANY 110",
+        "tag": "#0068",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,8XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85012508.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85012512.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85012510.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85012509.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85012511.jpeg"
+        ],
+        "price": "52000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "山葉",
+        "model": "山葉 勁戰六代 ABS",
+        "tag": "#1097",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84916891.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916894.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916895.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916892.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916893.jpeg"
+        ],
+        "price": "68000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2007",
+        "brand": "山葉",
+        "model": "山葉 JOG SWEET 100",
+        "tag": "#608",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "63,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84651195.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84651194.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84651198.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84651196.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84651197.jpeg"
+        ],
+        "price": "16000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2011",
+        "brand": "光陽",
+        "model": "光陽 V2 125",
+        "tag": "#117",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "66,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84650707.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650705.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650708.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650706.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650709.jpeg"
+        ],
+        "price": "22000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2018",
+        "brand": "山葉",
+        "model": "山葉 NEW CUXI 115",
+        "tag": "#7806",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84650483.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650485.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650482.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650481.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650484.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "光陽",
+        "model": "光陽 CUE 100",
+        "tag": "#3036",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "39,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84650001.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650000.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84650002.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84649998.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84649999.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2016",
+        "brand": "光陽",
+        "model": "光陽 VJR 110",
+        "tag": "#1066",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "27,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84649805.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84649807.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84649803.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84649806.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84649804.jpeg"
+        ],
+        "price": "33000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2014",
+        "brand": "山葉",
+        "model": "山葉 勁戰三代 125",
+        "tag": "#557",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "44,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84429640.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84429644.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84429642.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84429641.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84429643.jpeg"
+        ],
+        "price": "38000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2018",
+        "brand": "三陽",
+        "model": "三陽 JETS 125 ABS",
+        "tag": "#8719",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "32,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84429258.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84429260.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84429264.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84429261.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84429259.jpeg"
+        ],
+        "price": "52000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2017",
+        "brand": "光陽",
+        "model": "光陽 GP 125 鼓煞",
+        "tag": "#2882",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "48,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84428902.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84428899.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84428901.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84428900.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84428903.jpeg"
+        ],
+        "price": "33000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2018",
+        "brand": "光陽",
+        "model": "光陽 雷霆S 150 ABS",
+        "tag": "#6665",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "31,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84302295.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84302298.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84302294.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84302297.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84302296.jpeg"
+        ],
+        "price": "43000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2018",
+        "brand": "光陽",
+        "model": "光陽 VJR 125",
+        "tag": "#2851",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "35,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84298340.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84298339.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84298341.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84298338.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84298342.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "山葉",
+        "model": "山葉 FORCE 2.0",
+        "tag": "#2925",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84065405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065403.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065404.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065402.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065400.jpeg"
+        ],
+        "price": "72000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2019",
+        "brand": "光陽",
+        "model": "光陽 雷霆S 150 ABS",
+        "tag": "#1328",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "43,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84065196.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065194.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065197.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065195.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065193.jpeg"
+        ],
+        "price": "43000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2017",
+        "brand": "山葉",
+        "model": "山葉 FORCE 155",
+        "tag": "#1056",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "47,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84029403.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029404.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029409.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84029402.jpeg"
+        ],
+        "price": "53000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2013",
+        "brand": "三陽",
+        "model": "三陽 GTS 300I",
+        "tag": "#1703",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "73,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83607659.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83607660.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83607656.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83607658.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83607657.jpeg"
+        ],
+        "price": "19999",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2012",
+        "brand": "山葉",
+        "model": "山葉 BWSX 125",
+        "tag": "#836",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "56,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83497392.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83497395.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83497393.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83497394.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83497396.jpeg"
+        ],
+        "price": "26000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2017",
+        "brand": "PGO",
+        "model": "PGO 彪虎 150 ABS",
+        "tag": "#1208",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "30,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83453124.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83453126.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83453127.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83453123.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83453125.jpeg"
+        ],
+        "price": "38000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "PGO",
+        "model": "PGO SPRING 125 CBS",
+        "tag": "#3960",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83446784.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83446782.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83446780.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83446783.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83446781.jpeg"
+        ],
+        "price": "48000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2019",
+        "brand": "睿能",
+        "model": "睿能 GOGORO S2",
+        "tag": "#9289",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "15,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82323456.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82323455.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82323457.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82323458.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82323459.jpeg"
+        ],
+        "price": "29999",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2010",
+        "brand": "光陽",
+        "model": "光陽 MANY 110",
+        "tag": "#775",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "31,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82298329.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82298328.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82298330.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82298332.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82298331.jpeg"
+        ],
+        "price": "23000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2021",
+        "brand": "光陽",
+        "model": "光陽 KRV 180 TCS",
+        "tag": "#0911",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,034 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82296151.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82296149.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82296150.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82296153.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82296152.jpeg"
+        ],
+        "price": "68000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "睿能",
+        "model": "睿能 GOGORO 2 DELIGHT",
+        "tag": "#1965",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82254501.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82254500.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82254503.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82254502.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82254499.jpeg"
+        ],
+        "price": "28000",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "山葉",
+        "model": "山葉 VINOORA 125",
+        "tag": "#2713",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "12,641 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82253752.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82253749.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82253750.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82253751.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82253753.jpeg"
+        ],
+        "price": "58000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2019",
+        "brand": "睿能",
+        "model": "睿能 GOGORO 2 DELIGHT",
+        "tag": "#3173",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "38,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/80152839.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80152840.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80152843.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80152841.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80152842.jpeg"
+        ],
+        "price": "22000",
+        "warranty": false
+    }
+]

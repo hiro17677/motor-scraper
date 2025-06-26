@@ -1,0 +1,46 @@
+[
+    {
+        "location": "台南店",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JET SL+ 158 (ABS+TCS)",
+        "tag": "#3658",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "29XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88074247.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88074250.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88074248.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88074249.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88074251.jpeg"
+        ],
+        "price": "96000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2015",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 MANY 110 (碟煞)",
+        "tag": "#5069",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "343XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88067273.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88067275.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88067274.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88067270.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88067272.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88067271.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88067276.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88067268.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88067269.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    }
+]

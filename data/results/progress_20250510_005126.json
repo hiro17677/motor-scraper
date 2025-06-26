@@ -1,0 +1,22 @@
+[
+    {
+        "location": "花蓮店",
+        "year": "2019",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO 2 DELIGHT",
+        "tag": "#9213",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "24,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87202518.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87202522.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87202524.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87202525.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87202526.jpeg"
+        ],
+        "price": "23000",
+        "warranty": false
+    }
+]

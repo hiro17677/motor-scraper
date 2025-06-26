@@ -1,0 +1,102 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 NICE 100",
+        "tag": "#3662",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "未知",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/89006851.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89006852.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89007072.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89007071.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89007070.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2018",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 GT 125 鼓煞",
+        "tag": "#1292",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "未知",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/89006133.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89006135.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89006136.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89006137.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89006134.jpeg"
+        ],
+        "price": "33000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 LIKE 150",
+        "tag": "#8360",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "未知",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/89003349.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89003350.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89003351.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89003353.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/89003352.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2014",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉NEW CUXI 115 碟煞",
+        "tag": "#298",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "35,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88995251.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88995253.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88995254.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88995256.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88995415.jpeg"
+        ],
+        "price": "33000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2015",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 SMAX 155",
+        "tag": "#5236",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88995193.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88995194.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88995195.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88995196.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88995197.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    }
+]

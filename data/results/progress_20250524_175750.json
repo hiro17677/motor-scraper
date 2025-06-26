@@ -1,0 +1,126 @@
+[
+    {
+        "location": "新北新莊店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 水冷BWS 125 UBS",
+        "tag": "#2039",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,8XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87807319.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807315.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807318.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807316.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807317.jpeg"
+        ],
+        "price": "72000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2024",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 Limi 125 碟煞",
+        "tag": "#7190",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "1,497 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87805896.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87805892.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87805895.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87805893.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87805894.jpeg"
+        ],
+        "price": "68000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2024",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 IMANY 110 碟煞",
+        "tag": "#1510",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "484 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87805666.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87805662.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87805665.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87805664.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87805663.jpeg"
+        ],
+        "price": "62000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2024",
+        "brand": "2024",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "CLBCU 125 鑰匙版 碟煞(蜂鳥)",
+        "tag": "#2952",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "2,970 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87803105.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87803104.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87803103.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87803106.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87803107.jpeg"
+        ],
+        "price": "69999",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2022",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JET SL 125 ABS",
+        "tag": "#3878",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "29,4XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87803033.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87803034.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87803030.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87803031.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87803032.jpeg"
+        ],
+        "price": "69999",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2011",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 V2 125",
+        "tag": "#031",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "800XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87807663.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807657.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807662.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807664.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807661.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807658.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807656.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807659.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87807660.jpeg"
+        ],
+        "price": "26000",
+        "warranty": true
+    }
+]

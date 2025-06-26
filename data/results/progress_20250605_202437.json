@@ -1,0 +1,124 @@
+[
+    {
+        "location": "新北樹林店",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 AUGUR 155",
+        "tag": "#1786",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "23,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88304770.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88304774.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88304771.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88304773.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88304772.jpeg"
+        ],
+        "price": "82000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2008",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 G5 125",
+        "tag": "#657",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "74,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88302965.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88302967.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88302970.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88302971.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88302968.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88302969.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88302966.jpeg"
+        ],
+        "price": "22000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 WOO 115",
+        "tag": "#1853",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "5,9XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88307536.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307538.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307552.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307562.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307568.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 CUE 100",
+        "tag": "#2861",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "31,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88307454.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307455.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307456.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307458.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307459.jpeg"
+        ],
+        "price": "29999",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2015",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰四代 125",
+        "tag": "#8637",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "54,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88307075.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307086.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307097.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307103.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88307107.jpeg"
+        ],
+        "price": "42000",
+        "warranty": true
+    },
+    {
+        "location": "南台中店",
+        "year": "2023",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO SUPER SPORT ACE",
+        "tag": "#2987",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "101XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88311616.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88311619.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88311618.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88311617.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88311620.jpeg"
+        ],
+        "price": "49999",
+        "warranty": false
+    }
+]

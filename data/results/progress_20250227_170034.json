@@ -1,0 +1,22 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2013",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰三代",
+        "tag": "579",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "45,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/81002177.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81002178.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81002174.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81002176.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/81002175.jpeg"
+        ],
+        "price": "3600000",
+        "warranty": true
+    }
+]

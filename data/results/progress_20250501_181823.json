@@ -1,0 +1,126 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 VJR 125 雙碟",
+        "tag": "#8908",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "26,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86772438.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86772436.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86772435.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86772434.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86772437.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 MMBCU 158",
+        "tag": "#8682",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "1,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86772209.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86772212.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86772210.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86772208.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86772211.jpeg"
+        ],
+        "price": "99999",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2016",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰四代 125",
+        "tag": "#9273",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "23XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86774479.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86774481.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86774478.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86774477.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86774480.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86774475.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86774474.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86774473.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86774476.jpeg"
+        ],
+        "price": "46000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 R15 V3 倒叉",
+        "tag": "#7033",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86773849.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86773854.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86773861.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86773862.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86773864.jpeg"
+        ],
+        "price": "48000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2016",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰四代 125",
+        "tag": "#7875",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86766332.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86766339.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86766349.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86766355.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86766357.jpeg"
+        ],
+        "price": "46000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2012",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 BWSX 125",
+        "tag": "#983",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86753137.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86753140.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86753146.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86753152.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86753157.jpeg"
+        ],
+        "price": "28000",
+        "warranty": false
+    }
+]

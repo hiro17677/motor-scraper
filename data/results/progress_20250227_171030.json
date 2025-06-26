@@ -1,0 +1,82 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2023",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "SUI 125",
+        "tag": "7035",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "4,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83778108.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83778111.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83778105.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83778106.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83778107.jpeg"
+        ],
+        "price": "5900000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2021",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "野狼傳奇 125",
+        "tag": "9072",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "16xxx km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83690867.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83690868.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83690865.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83690864.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83690866.jpeg"
+        ],
+        "price": "4600000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2024",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "野狼傳奇 125",
+        "tag": "2272",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "4,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83004262.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83004263.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83004259.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83004261.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83004260.jpeg"
+        ],
+        "price": "6999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "GSX-S 150",
+        "tag": "1362",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83004170.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83004174.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83004173.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83004171.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83004172.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": true
+    }
+]

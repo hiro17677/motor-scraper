@@ -1,0 +1,82 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JET SL 158",
+        "tag": "#6898",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "16,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87875184.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875185.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875186.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875187.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875188.jpeg"
+        ],
+        "price": "89999",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 NICE 100",
+        "tag": "#0678",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "26,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87875104.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875105.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875106.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875107.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875108.jpeg"
+        ],
+        "price": "32000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰六代 125 ABS",
+        "tag": "#5599",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "69,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87875026.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875027.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875030.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875032.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87875033.jpeg"
+        ],
+        "price": "72000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2014",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 MANY 110",
+        "tag": "#1779",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87874932.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87874933.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87874935.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87874937.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87874940.jpeg"
+        ],
+        "price": "33000",
+        "warranty": true
+    }
+]

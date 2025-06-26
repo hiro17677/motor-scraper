@@ -1,0 +1,122 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰 6.5代",
+        "tag": "#3881",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85552417.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85552415.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85552416.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85552413.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85552414.jpeg"
+        ],
+        "price": "88000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2019",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "R15 V3 正叉",
+        "tag": "#5155",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "12,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85552224.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85552225.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85552221.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85552222.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85552223.jpeg"
+        ],
+        "price": "49999",
+        "warranty": false
+    },
+    {
+        "location": "新北中和店",
+        "year": "2013",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "GTR AERO",
+        "tag": "#306",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "45,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85551804.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85551802.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85551803.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85551801.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85551799.jpeg"
+        ],
+        "price": "32000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET SR 125",
+        "tag": "#0687",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "2,865 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85501134.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85501138.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85501136.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85501137.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85501135.jpeg"
+        ],
+        "price": "79999",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2014",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "GP 125 噴射",
+        "tag": "#632",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "34,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85522538.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85522536.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85522535.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85522534.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85522537.jpeg"
+        ],
+        "price": "28000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "KRV 180",
+        "tag": "#9657",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "33,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85521527.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85521526.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85521529.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85521528.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85521530.jpeg"
+        ],
+        "price": "69999",
+        "warranty": true
+    }
+]

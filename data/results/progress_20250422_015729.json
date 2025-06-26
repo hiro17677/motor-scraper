@@ -1,0 +1,83 @@
+[
+    {
+        "location": "2011",
+        "year": "2011",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "NEX 125",
+        "tag": "#201",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "17,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86269185.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86269182.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86269186.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86269183.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86269187.jpeg"
+        ],
+        "price": "25000",
+        "warranty": true
+    },
+    {
+        "location": "2024",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "DRG 2.0 KEYLESS",
+        "tag": "#1803",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "5,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86268904.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86268903.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86268901.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86268905.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86268902.jpeg"
+        ],
+        "price": "103000",
+        "warranty": true
+    },
+    {
+        "location": "2023",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "AUGUR 155",
+        "tag": "#5523",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "6,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86268783.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86268787.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86268785.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86268784.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86268786.jpeg"
+        ],
+        "price": "85000",
+        "warranty": true
+    },
+    {
+        "location": "2023",
+        "year": "2023",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "Vinoora M 125 UBS",
+        "tag": "#9792",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86139879.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86139883.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86139878.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86139882.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86139881.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86139880.jpeg"
+        ],
+        "price": "62000",
+        "warranty": true
+    }
+]

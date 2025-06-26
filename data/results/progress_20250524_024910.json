@@ -1,0 +1,62 @@
+[
+    {
+        "location": "新北新莊店",
+        "year": "2020",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "台鈴 GSX-S150 小街魯 ABS",
+        "tag": "#9830",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "1,1XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87790360.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790361.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790359.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790358.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790362.jpeg"
+        ],
+        "price": "52000",
+        "warranty": false
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2017",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 超級金牌 150 前碟後鼓",
+        "tag": "#5825",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "12,6XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87790128.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790124.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790125.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790126.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790127.jpeg"
+        ],
+        "price": "42000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2016",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 MANY 110 前碟後鼓",
+        "tag": "#1126",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "15,6XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87790093.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790091.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790090.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790089.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87790092.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    }
+]

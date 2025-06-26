@@ -1,0 +1,22 @@
+[
+    {
+        "location": "新北樹林店",
+        "year": "2019",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO 2 DELIGHT",
+        "tag": "#5980",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "20,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84951813.webp",
+            "https://cdn.store-assets.com/s/1336053/i/84951816.webp",
+            "https://cdn.store-assets.com/s/1336053/i/84951817.jpg",
+            "https://cdn.store-assets.com/s/1336053/i/84951818.jpg",
+            "https://cdn.store-assets.com/s/1336053/i/84951821.jpg"
+        ],
+        "price": "1200000",
+        "warranty": false
+    }
+]

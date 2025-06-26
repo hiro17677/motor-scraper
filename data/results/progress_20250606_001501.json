@@ -1,0 +1,22 @@
+[
+    {
+        "location": "南台中店",
+        "year": "2019",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO BON 125 ABS",
+        "tag": "#1721",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "150XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88313267.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88313268.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88313270.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88313269.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88313271.jpeg"
+        ],
+        "price": "32000",
+        "warranty": true
+    }
+]

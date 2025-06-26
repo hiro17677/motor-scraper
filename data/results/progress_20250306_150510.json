@@ -1,0 +1,82 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FORCE 2.0",
+        "tag": "#2925",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84065405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065403.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065404.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065402.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84065400.jpeg"
+        ],
+        "price": "7200000",
+        "warranty": true
+    },
+    {
+        "location": "新竹店",
+        "year": "2019",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "GSX-R 150",
+        "tag": "#9119",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "21,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84064959.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84064961.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84064958.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84064971.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84064960.jpeg"
+        ],
+        "price": "4999900",
+        "warranty": false
+    },
+    {
+        "location": "新竹店",
+        "year": "2016",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "SMAX 155",
+        "tag": "#2178",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "38,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84064689.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84064691.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84064690.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84064693.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84064692.jpeg"
+        ],
+        "price": "2800000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2010",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "GR125",
+        "tag": "#379",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "34,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84054610.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84054612.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84054611.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84054609.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84054608.jpeg"
+        ],
+        "price": "1800000",
+        "warranty": false
+    }
+]

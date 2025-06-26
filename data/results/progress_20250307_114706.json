@@ -1,0 +1,82 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "KRV180",
+        "tag": "#1099",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "26,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84102834.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84102836.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84102838.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84102835.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84102837.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰四代",
+        "tag": "#1852",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "33,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84102387.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84102384.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84102388.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84102385.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84102386.jpeg"
+        ],
+        "price": "5200000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "宏佳騰",
+        "shopee_code": "1082956",
+        "ruten_code": "0019000200020009",
+        "model": "MY 150(國際檔)",
+        "tag": "#5750",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,906 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84100591.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84100592.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84100594.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84100593.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84100595.jpeg"
+        ],
+        "price": "5800000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2019",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰五代 125",
+        "tag": "#5561",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "45XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/80765619.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80765614.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80765616.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80765617.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/80765618.jpeg"
+        ],
+        "price": "5800000",
+        "warranty": true
+    }
+]

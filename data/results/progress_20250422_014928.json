@@ -1,0 +1,53 @@
+[
+    {
+        "location": "台南店",
+        "year": "2016",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "SMAX 1.0",
+        "tag": "#9876",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "236XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86278921.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278920.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278923.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278924.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278922.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278917.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278919.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278918.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278916.jpeg"
+        ],
+        "price": "42000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2018",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰五代125 (ABS)",
+        "tag": "#9005",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "294XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86278729.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278727.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278728.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278732.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278731.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278723.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278712.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278722.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278730.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278726.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278711.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86278725.jpeg"
+        ],
+        "price": "58000",
+        "warranty": true
+    }
+]

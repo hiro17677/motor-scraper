@@ -1,0 +1,610 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2022",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "DRG 158",
+        "tag": "#5865",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,5XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84349324.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84349323.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84349321.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84349320.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84349322.jpeg"
+        ],
+        "price": "6999900",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2013",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "RS ZERO 100",
+        "tag": "#860",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "42,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84377715.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377714.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377713.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377718.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377716.jpeg"
+        ],
+        "price": "2999900",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2016",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "NEW CUXI 115 碟煞",
+        "tag": "#2789",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "40,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84377667.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377669.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377668.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377671.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377670.jpeg"
+        ],
+        "price": "3999900",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2016",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "G6E 125",
+        "tag": "#9389",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "29,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84377636.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377637.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377634.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377635.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377639.jpeg"
+        ],
+        "price": "3200000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2017",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "Z1 ATTILA 125",
+        "tag": "#6060",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "53,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84377621.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377617.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377619.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377618.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377620.jpeg"
+        ],
+        "price": "3800000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "LIMI 115",
+        "tag": "#1365",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84377507.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377504.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377506.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377503.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377505.jpeg"
+        ],
+        "price": "3900000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "重機-Maxsym TL 500",
+        "tag": "#2378",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "20,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84377355.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377359.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377353.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377356.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377357.jpeg"
+        ],
+        "price": "11800000",
+        "warranty": false
+    },
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "小小兵",
+        "tag": "#1120",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "27,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84377199.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377200.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377198.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377196.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84377197.jpeg"
+        ],
+        "price": "5500000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2021",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "VIVA MIX BELT V",
+        "tag": "#9982",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "63,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84376989.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376990.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376991.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376993.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376992.jpeg"
+        ],
+        "price": "4200000",
+        "warranty": false
+    },
+    {
+        "location": "新北中和店",
+        "year": "2021",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "新迪爵 125 碟煞",
+        "tag": "#5302",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84376858.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376861.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376859.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376860.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376862.jpeg"
+        ],
+        "price": "3999900",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2022",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET SL 125",
+        "tag": "#6001",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84376765.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376763.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376767.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376766.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376764.jpeg"
+        ],
+        "price": "7200000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2023",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "MANY 110",
+        "tag": "#6128",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84376602.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376600.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376597.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376598.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84376601.jpeg"
+        ],
+        "price": "5999900",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2021",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET SR 125",
+        "tag": "#2982",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "18XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84367000.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366996.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366998.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366997.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366999.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2019",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FORCE 155",
+        "tag": "#9066",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "未知",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84366461.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366460.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366463.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366462.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366459.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366457.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366456.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366458.jpeg"
+        ],
+        "price": "5500000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2021",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "DRG 158 ABS 六期",
+        "tag": "#9803",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "27XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84366114.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366115.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366112.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366116.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84366113.jpeg"
+        ],
+        "price": "6800000",
+        "warranty": true
+    },
+    {
+        "location": "新北新莊店",
+        "year": "2019",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "雷霆S150 RACINGS 雙碟",
+        "tag": "#5185",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "28XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84365025.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365023.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365022.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365024.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365020.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365021.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365016.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365019.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365015.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84365014.jpeg"
+        ],
+        "price": "4800000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2007",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰二代 噴射",
+        "tag": "#566",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84370785.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370787.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370786.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370784.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370788.jpeg"
+        ],
+        "price": "2300000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2011",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰二代 飛旋",
+        "tag": "#512",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "6,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84370737.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370738.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370740.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370739.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370741.jpeg"
+        ],
+        "price": "2800000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2013",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "NEW CUXI 100",
+        "tag": "#997",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "31,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84370639.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370638.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370640.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370637.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370641.jpeg"
+        ],
+        "price": "3500000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2013",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "G6 150",
+        "tag": "#5359",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "21,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84370555.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370557.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370554.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370556.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370558.jpeg"
+        ],
+        "price": "3200000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2018",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "VJR 125",
+        "tag": "#3301",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "24,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84370278.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370280.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370276.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370277.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370279.jpeg"
+        ],
+        "price": "4200000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FORCE 155",
+        "tag": "#6066",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84370136.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370133.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370135.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370134.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84370137.jpeg"
+        ],
+        "price": "6300000",
+        "warranty": true
+    },
+    {
+        "location": "新北樹林店",
+        "year": "2021",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET SR 125",
+        "tag": "#3616",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "15,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84369976.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84369975.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84369979.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84369978.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84369977.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2008",
+        "brand": "哈特佛",
+        "shopee_code": "1089745",
+        "ruten_code": "9999999999999999",
+        "model": "雲豹 200",
+        "tag": "#572",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "98,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84364985.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84364988.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84364990.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84364991.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84364993.jpeg"
+        ],
+        "price": "2800000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2021",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET SL 125",
+        "tag": "#5555",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "5,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84364224.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84364229.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84364230.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84364231.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84364233.jpeg"
+        ],
+        "price": "7800000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2019",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "刺激 400",
+        "tag": "#7682",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "29,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84361254.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84361257.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84361258.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84361259.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84361263.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "DRG 158 ABS 六期",
+        "tag": "#8578",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84360822.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360825.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360829.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360834.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360837.jpeg"
+        ],
+        "price": "6999900",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2018",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET S 125",
+        "tag": "#7113",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "94,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84360563.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360568.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360574.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360579.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360582.jpeg"
+        ],
+        "price": "3800000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "GSX-R150 小阿魯",
+        "tag": "#9875",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "12,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84360269.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360278.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360282.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360287.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360292.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2015",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "JET S 125",
+        "tag": "#9957",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "32,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84360022.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360025.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360029.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360035.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84360037.jpeg"
+        ],
+        "price": "4200000",
+        "warranty": true
+    }
+]

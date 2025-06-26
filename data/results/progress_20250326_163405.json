@@ -1,0 +1,202 @@
+[
+    {
+        "location": "新竹店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰六代",
+        "tag": "#1097",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84916891.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916894.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916895.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916892.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916893.jpeg"
+        ],
+        "price": "6800000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2014",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰三代",
+        "tag": "#373",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "40,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84936068.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84936069.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84936067.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84936066.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84936065.jpeg"
+        ],
+        "price": "2700000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "FZ-S 150",
+        "tag": "#5038",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "22,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84935961.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84935960.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84935959.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84935958.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84935957.jpeg"
+        ],
+        "price": "3500000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "R15V4",
+        "tag": "#3679",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "364 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84935897.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84935900.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84935901.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84935899.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84935898.jpeg"
+        ],
+        "price": "8700000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2015",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "WOO 100",
+        "tag": "#3201",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84917432.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917434.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917433.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917435.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917436.jpeg"
+        ],
+        "price": "2999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "VINOORA M 125",
+        "tag": "#8791",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84917303.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917307.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917305.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917304.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917306.jpeg"
+        ],
+        "price": "5800000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰四代",
+        "tag": "#0887",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "51,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84917257.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917258.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917261.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917259.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917260.jpeg"
+        ],
+        "price": "4999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2016",
+        "brand": "川崎",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "Z 300 ABS",
+        "tag": "#8867",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "31,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84738497.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84738501.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84738500.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84738498.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84738499.jpeg"
+        ],
+        "price": "5999900",
+        "warranty": false
+    },
+    {
+        "location": "花蓮店",
+        "year": "2023",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "RCS MOTO 150",
+        "tag": "#6859",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84917238.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917236.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917239.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917237.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84917235.jpeg"
+        ],
+        "price": "6800000",
+        "warranty": true
+    },
+    {
+        "location": "花蓮店",
+        "year": "2023",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO SUPER SPORT",
+        "tag": "#1170",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "21,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/84916882.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916880.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916881.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916884.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/84916883.jpeg"
+        ],
+        "price": "3800000",
+        "warranty": false
+    }
+]

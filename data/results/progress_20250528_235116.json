@@ -1,0 +1,92 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2018",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "台鈴 GSX-S150 街魯",
+        "tag": "#5551",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87911098.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87911100.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87911106.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87911109.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87911112.jpeg"
+        ],
+        "price": "43000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2012",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 酷龍 150 街車",
+        "tag": "#1592",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87910924.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87910927.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87910931.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87910932.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87910934.jpeg"
+        ],
+        "price": "19999",
+        "warranty": false
+    },
+    {
+        "location": "花蓮店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 FZ25",
+        "tag": "#5600",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "2,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87955596.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87955605.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87955611.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87955615.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87955620.jpeg"
+        ],
+        "price": "58000",
+        "warranty": false
+    },
+    {
+        "location": "台南店",
+        "year": "2022",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 水冷BWS 125 (UBS)",
+        "tag": "#6756",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "238XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87956164.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956161.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956160.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956162.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956163.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956156.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956154.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956150.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956153.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956155.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956149.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956148.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956152.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956157.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87956159.jpeg"
+        ],
+        "price": "66000",
+        "warranty": true
+    }
+]

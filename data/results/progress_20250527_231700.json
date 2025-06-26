@@ -1,0 +1,22 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2015",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 GTS 300 IE ABS",
+        "tag": "#690",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "58,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/82602217.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82602218.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82602219.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82602220.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/82602221.jpeg"
+        ],
+        "price": "32000",
+        "warranty": false
+    }
+]

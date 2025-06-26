@@ -1,0 +1,221 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 FORCE 2.0 TCS",
+        "tag": "#6632",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "30,438 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87212827.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212825.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212828.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212826.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212824.jpeg"
+        ],
+        "price": "69999",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 JET SL 158",
+        "tag": "#6357",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "6,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87214916.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214917.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214918.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214919.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214920.jpeg"
+        ],
+        "price": "95000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2022",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 KRV 180 TCS",
+        "tag": "#0228",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87214769.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214770.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214771.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214772.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214773.jpeg"
+        ],
+        "price": "68000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2019",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO 2 PLUS",
+        "tag": "#2113",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "22,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87214699.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214700.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214701.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214702.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214709.jpeg"
+        ],
+        "price": "23000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2012",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰三代 125",
+        "tag": "#258",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "76,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87214402.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214403.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214404.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214405.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87214406.jpeg"
+        ],
+        "price": "33000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2018",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO JBUBUS 125 (ABS)",
+        "tag": "#6619",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "481XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87213023.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87213026.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87213027.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87213025.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87213022.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87213024.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87213021.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87213019.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87213020.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2019",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO 3 (鑰匙版)",
+        "tag": "#6981",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "192XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87212244.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212243.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212238.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212242.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212237.jpeg"
+        ],
+        "price": "19999",
+        "warranty": false
+    },
+    {
+        "location": "台南店",
+        "year": "2021",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO VIVA MIX (鏈條)",
+        "tag": "#7611",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "198XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87212188.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212185.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212184.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212182.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212186.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212183.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212180.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212187.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212181.jpeg"
+        ],
+        "price": "33000",
+        "warranty": false
+    },
+    {
+        "location": "台南店",
+        "year": "2013",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 VP 125",
+        "tag": "#2727",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "752XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87212175.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212172.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212173.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212171.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212174.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212166.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212169.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212168.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212170.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212167.jpeg"
+        ],
+        "price": "25000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2015",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 SMAX 1.0",
+        "tag": "#7278",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "364XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87212152.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212156.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212155.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212153.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212154.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212150.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212151.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212149.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212148.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212146.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87212147.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    }
+]

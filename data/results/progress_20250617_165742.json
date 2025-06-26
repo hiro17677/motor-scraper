@@ -1,0 +1,42 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 MMBCU 158",
+        "tag": "#7556",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "3,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88835187.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88835190.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88835189.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88835191.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88835188.jpeg"
+        ],
+        "price": "98000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2018",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO BON 125 ABS",
+        "tag": "#2186",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88835094.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88835092.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88835093.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88835095.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88835091.jpeg"
+        ],
+        "price": "39999",
+        "warranty": true
+    }
+]

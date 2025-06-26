@@ -1,0 +1,42 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2016",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO TIGRA 彪虎150 ABS",
+        "tag": "#5939",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "67,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86314274.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86314278.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86314281.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86314284.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86314294.jpeg"
+        ],
+        "price": "29999",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2025",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "三陽 DRG 2.0 鑰匙版",
+        "tag": "#6656",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "1,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86290446.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86290447.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86290451.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86290454.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86290457.jpeg"
+        ],
+        "price": "105000",
+        "warranty": true
+    }
+]

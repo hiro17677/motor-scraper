@@ -1,0 +1,182 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2014",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO JBUBU 115",
+        "tag": "#7073",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87256965.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256963.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256967.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256964.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256966.jpeg"
+        ],
+        "price": "33000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2019",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰五代 125 ABS",
+        "tag": "#6671",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "44,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87256918.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256917.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256919.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256920.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256921.jpeg"
+        ],
+        "price": "62000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2015",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 刺激 400 ABS",
+        "tag": "#9031",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "48,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87256879.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256877.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256878.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256876.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256880.jpeg"
+        ],
+        "price": "45000",
+        "warranty": false
+    },
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰六代 125 ABS",
+        "tag": "#6713",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "41,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87256840.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256837.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256838.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256841.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256842.jpeg"
+        ],
+        "price": "68000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰四代 125",
+        "tag": "#8880",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "39,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87256732.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256733.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256734.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256735.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256737.jpeg"
+        ],
+        "price": "48000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 GP 125 鼓煞",
+        "tag": "#6021",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "6,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87256554.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256553.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256556.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256557.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256555.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2013",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 勁戰三代 125",
+        "tag": "#695",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "42,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87256115.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256118.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256114.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256116.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256119.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2018",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO S2",
+        "tag": "#9370",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87254228.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87254229.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87254232.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87254231.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87254230.jpeg"
+        ],
+        "price": "35000",
+        "warranty": false
+    },
+    {
+        "location": "新北中和店",
+        "year": "2013",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 BWSX 125",
+        "tag": "#167",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "12,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87256127.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256123.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256124.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256125.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87256128.jpeg"
+        ],
+        "price": "32000",
+        "warranty": true
+    }
+]

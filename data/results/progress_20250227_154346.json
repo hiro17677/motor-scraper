@@ -1,0 +1,122 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2014",
+        "brand": "年",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "光陽 MANY 110 碟煞",
+        "tag": "#3230",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "43,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83775806.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83775804.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83775808.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83775807.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83775805.jpeg"
+        ],
+        "price": "3500000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "NEW VJR125 TCS",
+        "tag": "#6995",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7,XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83784817.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83784818.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83784816.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83784815.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83784819.jpeg"
+        ],
+        "price": "5999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2014",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "GP125 碟煞",
+        "tag": "#963",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "50,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83784227.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83784230.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83784228.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83784229.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83784231.jpeg"
+        ],
+        "price": "2800000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "NICE100 鼓煞",
+        "tag": "#5122",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "25,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83783874.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83783875.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83783872.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83783873.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83783871.jpeg"
+        ],
+        "price": "3500000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "哥倫布150",
+        "tag": "#3858",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "12,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83783016.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83783017.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83783013.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83783015.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83783014.jpeg"
+        ],
+        "price": "6300000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "雷霆s 150",
+        "tag": "#3999",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "35,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83778329.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83778330.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83778331.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83778332.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83778333.jpeg"
+        ],
+        "price": "3999900",
+        "warranty": true
+    }
+]

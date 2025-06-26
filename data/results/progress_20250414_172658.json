@@ -1,0 +1,42 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2015",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "勁戰四代",
+        "tag": "#2998",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85904812.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85904808.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85904809.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85904810.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85904811.jpeg"
+        ],
+        "price": "45000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO VIVAMIX XL BELT",
+        "tag": "#3617",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7,398 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/85904679.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85904676.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85904680.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85904677.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/85904678.jpeg"
+        ],
+        "price": "45000",
+        "warranty": false
+    }
+]

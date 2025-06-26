@@ -1,0 +1,241 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO JBUBU 125 ABS",
+        "tag": "#7680",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "27,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86988906.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86988907.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86988908.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86988910.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86988911.jpeg"
+        ],
+        "price": "48000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2014",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 BWSX 125",
+        "tag": "#7009",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "52,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86988882.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86988883.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86988884.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86988885.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86988886.jpeg"
+        ],
+        "price": "29999",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 FORCE 155",
+        "tag": "#0692",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "33,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86987911.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86987923.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86987929.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86987932.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86987936.jpeg"
+        ],
+        "price": "46000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 雷霆S150 RACINGS ABS",
+        "tag": "#9256",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "22,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86987784.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86987788.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86987789.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86987790.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86987792.jpeg"
+        ],
+        "price": "55000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO VIVA KEYLESS",
+        "tag": "#5278",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "18,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86982611.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86982613.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86982614.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86982617.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86982620.jpeg"
+        ],
+        "price": "22000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "GOGORO",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 GOGORO S3",
+        "tag": "#2176",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "21,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86982456.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86982464.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86982465.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86982472.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86982485.jpeg"
+        ],
+        "price": "28000",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2023",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 KRV 180 MOTO",
+        "tag": "#3229",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "22,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86963468.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86963470.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86963478.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86963480.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86963481.jpeg"
+        ],
+        "price": "85000",
+        "warranty": true
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2021",
+        "brand": "2021",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "睿能 Viva Mix",
+        "tag": "#9265",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "40,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86981286.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981284.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981287.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981290.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981289.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981291.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981292.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981288.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981285.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86981283.jpeg"
+        ],
+        "price": "25000",
+        "warranty": false
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2023",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO New Jbubu 125 CBS",
+        "tag": "#2581",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86980912.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980910.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980909.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980913.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980914.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980911.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980908.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980907.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980906.jpeg"
+        ],
+        "price": "65000",
+        "warranty": true
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2013",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 Rs Zero 100",
+        "tag": "#516",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86980168.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980166.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980167.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980169.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980170.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980171.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980173.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980174.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980175.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980177.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980176.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86980178.jpeg"
+        ],
+        "price": "25000",
+        "warranty": true
+    },
+    {
+        "location": "高雄鳳山店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 New Many 125",
+        "tag": "#6057",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "19,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/86979592.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86979591.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86979589.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86979593.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86979595.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86979590.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86979586.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/86979587.jpeg"
+        ],
+        "price": "55000",
+        "warranty": true
+    }
+]

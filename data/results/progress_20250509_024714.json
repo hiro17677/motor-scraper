@@ -1,0 +1,135 @@
+[
+    {
+        "location": "台中旗艦店",
+        "year": "2020",
+        "brand": "台鈴",
+        "shopee_code": "1147069",
+        "ruten_code": "0019000200020003",
+        "model": "台鈴 GSX-150 BANDIT 小海盜",
+        "tag": "#8550",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "7,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87089929.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87089931.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87089934.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87089937.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87089940.jpeg"
+        ],
+        "price": "59999",
+        "warranty": false
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 LIMI 115",
+        "tag": "#7885",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "38,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87065965.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87065966.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87065968.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87065976.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87065986.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "台中旗艦店",
+        "year": "2018",
+        "brand": "宏佳騰",
+        "shopee_code": "1082956",
+        "ruten_code": "0019000200020009",
+        "model": "宏佳騰 OZS 150",
+        "tag": "#6198",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "21,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87060298.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87060300.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87060302.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87060303.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87060305.jpeg"
+        ],
+        "price": "28000",
+        "warranty": false
+    },
+    {
+        "location": "台南店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "山葉 BWSR 125",
+        "tag": "#1867",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "214XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87102953.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87102956.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87102957.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87102954.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87102955.jpeg"
+        ],
+        "price": "48000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2016",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO JBUBU 115",
+        "tag": "#8167",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "328XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87101609.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87101608.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87101610.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87101607.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87101606.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87101605.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87101604.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87101603.jpeg"
+        ],
+        "price": "36000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2020",
+        "brand": "PGO",
+        "shopee_code": "1101057",
+        "ruten_code": "0019000200020002",
+        "model": "PGO 彪虎150 (ABS)",
+        "tag": "#2895",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "425XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/87045218.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045215.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045213.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045217.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045212.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045207.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045211.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045204.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045206.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045210.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045214.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045208.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045216.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045205.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/87045209.jpeg"
+        ],
+        "price": "48000",
+        "warranty": true
+    }
+]

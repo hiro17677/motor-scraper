@@ -1,0 +1,78 @@
+[
+    {
+        "location": "桃園中壢店",
+        "year": "2019",
+        "brand": "睿能",
+        "shopee_code": "1091869",
+        "ruten_code": "9999999999999999",
+        "model": "GOGORO 2 DELIGHT",
+        "tag": "#5952",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "24,826 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83239376.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239380.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239377.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239379.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239378.jpeg"
+        ],
+        "price": "2500000"
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2024",
+        "brand": "三陽",
+        "shopee_code": "1107843",
+        "ruten_code": "0019000200020004",
+        "model": "新迪爵 125 CBS 碟煞",
+        "tag": "#8258",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,969 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83239293.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239301.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239299.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239295.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239298.jpeg"
+        ],
+        "price": "4999900"
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2017",
+        "brand": "山葉",
+        "shopee_code": "1802940",
+        "ruten_code": "0019000200020006",
+        "model": "LIMI 115",
+        "tag": "#5081",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "12,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83239214.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239218.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239215.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239216.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239217.jpeg"
+        ],
+        "price": "3999900"
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "GP125 VCS",
+        "tag": "#6755",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83239170.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239171.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239168.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239167.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83239169.jpeg"
+        ],
+        "price": "3999900"
+    }
+]

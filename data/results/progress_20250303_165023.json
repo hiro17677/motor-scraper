@@ -1,0 +1,382 @@
+[
+    {
+        "location": "新北中和店",
+        "year": "2024",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "K1 125 ICBS",
+        "tag": "7055",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "9,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83928625.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928626.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928627.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928623.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928624.jpeg"
+        ],
+        "price": "5500000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2021",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "VJR 125",
+        "tag": "6595",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "23,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83928394.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928392.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928389.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928393.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928390.jpeg"
+        ],
+        "price": "4500000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2020",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "EC-05",
+        "tag": "1758",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83928153.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928150.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928152.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928149.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83928151.jpeg"
+        ],
+        "price": "3500000",
+        "warranty": false
+    },
+    {
+        "location": "新北中和店",
+        "year": "2019",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "BON 125",
+        "tag": "1826",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "11,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83927963.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927964.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927961.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927962.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927960.jpeg"
+        ],
+        "price": "3200000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2018",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "雷霆150 RACING 雙碟",
+        "tag": "2286",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "26,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83927819.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927820.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927822.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927823.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927821.jpeg"
+        ],
+        "price": "3999900",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2018",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "勁戰四代 125",
+        "tag": "6583",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "42,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83927634.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927635.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927636.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927638.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927637.jpeg"
+        ],
+        "price": "4999900",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2017",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "LIKE 125",
+        "tag": "5611",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "37,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83927533.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927529.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927532.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927531.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927530.jpeg"
+        ],
+        "price": "3800000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2015",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "勁戰四代 125",
+        "tag": "0267",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "49,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83927454.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927458.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927455.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927456.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927457.jpeg"
+        ],
+        "price": "4500000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2013",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "雷霆150 RACING",
+        "tag": "3815",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "41,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83927391.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927389.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927388.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927387.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927390.jpeg"
+        ],
+        "price": "2800000",
+        "warranty": true
+    },
+    {
+        "location": "新北中和店",
+        "year": "2010",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "酷龍 150 街車",
+        "tag": "536",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "14,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83927010.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927009.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927011.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927007.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83927008.jpeg"
+        ],
+        "price": "2200000",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2014",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "GP125 碟煞",
+        "tag": "996",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "0 km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83941786.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941783.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941785.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941784.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941782.jpeg"
+        ],
+        "price": "2999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2016",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "SMAX 155",
+        "tag": "9783",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "52,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83941671.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941673.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941674.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941672.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941675.jpeg"
+        ],
+        "price": "3500000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "MSX-GROM",
+        "tag": "1729",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "8XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83941568.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941566.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941567.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941564.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941565.jpeg"
+        ],
+        "price": "8999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "JETSR CBS",
+        "tag": "6810",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "15,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83941529.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941528.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941526.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941527.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941525.jpeg"
+        ],
+        "price": "6500000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "JETSR",
+        "tag": "9087",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "4,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83941475.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941473.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941472.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941474.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941471.jpeg"
+        ],
+        "price": "7500000",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2020",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "勁戰六代",
+        "tag": "1795",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "13,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83941364.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941362.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941361.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941363.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941360.jpeg"
+        ],
+        "price": "6999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2023",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "大地名流150 雙碟",
+        "tag": "5586",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "15,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83941203.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941206.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941208.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941209.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83941210.jpeg"
+        ],
+        "price": "4999900",
+        "warranty": true
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2022",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "CB200X",
+        "tag": "1791",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "10,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83940839.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83940840.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83940841.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83940843.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83940842.jpeg"
+        ],
+        "price": "6999900",
+        "warranty": false
+    },
+    {
+        "location": "桃園中壢店",
+        "year": "2014",
+        "brand": "未知",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "勁戰三代",
+        "tag": "357",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "46,XXX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/83940714.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83940718.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83940717.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83940716.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/83940715.jpeg"
+        ],
+        "price": "3700000",
+        "warranty": true
+    }
+]

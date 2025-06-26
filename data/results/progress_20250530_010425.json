@@ -1,0 +1,45 @@
+[
+    {
+        "location": "台南店",
+        "year": "2021",
+        "brand": "光陽",
+        "shopee_code": "1095314",
+        "ruten_code": "0019000200020001",
+        "model": "光陽 KRV 180 (ABS+TCS)",
+        "tag": "#6587",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "132XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88037671.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037672.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037675.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037674.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037670.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037666.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037667.jpeg"
+        ],
+        "price": "68000",
+        "warranty": true
+    },
+    {
+        "location": "台南店",
+        "year": "2017",
+        "brand": "2017",
+        "shopee_code": "999999",
+        "ruten_code": "9999999999999999",
+        "model": "哈特佛 MY 150 (國際五檔)",
+        "tag": "#9750",
+        "condition": "檢查和更換耗材，確保車輛運作順暢",
+        "mileage": "182XX km",
+        "images": [
+            "https://cdn.store-assets.com/s/1336053/i/88037074.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037073.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037077.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037075.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037076.jpeg",
+            "https://cdn.store-assets.com/s/1336053/i/88037072.jpeg"
+        ],
+        "price": "35000",
+        "warranty": true
+    }
+]
